@@ -1,1 +1,1 @@
-Trying out Flask :)
+Brushing up on Flask skills
